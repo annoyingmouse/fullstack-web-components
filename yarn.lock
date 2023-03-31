@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@annoyingmouse/wc-pagination@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@annoyingmouse/wc-pagination/-/wc-pagination-1.0.3.tgz#0b913b97cf60dbc035d0b43605f2a4b3c87b5ecb"
+  integrity sha512-/cL24PNdwh7l9XakBBvy4fssDtxluEM8Oul9lGupZFD8Zj8TaaPwkwcu1afRd5Fotnfqj/9mc5mnE5U9gk04Rg==
+
 "@axe-core/puppeteer@^4.2.0":
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/@axe-core/puppeteer/-/puppeteer-4.3.1.tgz#02479f27e9da9c4579435dcadd21f331f026016b"

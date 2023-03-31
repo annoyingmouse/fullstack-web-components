@@ -20,7 +20,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@in/common": "0.0.1"
+    "@in/common": "0.0.1",
+    "@annoyingmouse/wc-pagination": "1.0.3"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "20.0.0",
